@@ -13,6 +13,10 @@ header, footer {
   text-align: center;
 }
 
+a {
+  text-decoration: none;
+}
+
 nav {
   margin-top: 5vh;
 }
